@@ -149,6 +149,16 @@ The model is trained using:
 
 ---
 
+# Challenges Faced
+
+- Understanding semantic segmentation workflow
+- MRI image preprocessing
+- Training U-Net efficiently in Google Colab
+- Improving IoU score
+- Handling medical imaging datasets
+
+---
+
 # Files Included
 
 ```text
