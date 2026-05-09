@@ -154,9 +154,8 @@ The model is trained using:
 # Files Included
 
 ```text
-brain_tumor_segmentation.ipynb
+mri_segmentation_unet.ipynb
 download_data.sh
 mat_to_numpy.py
 requirements.txt
 project_notes.md
-project_summary.pdf
