@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation in MRI Images using U-Net
+# mri-brain-tumor-segmentation using U-Net
 
 Implementation of a U-Net based deep learning model for brain tumor segmentation in MRI images using TensorFlow and Keras.
 
