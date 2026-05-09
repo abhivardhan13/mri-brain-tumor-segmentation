@@ -112,40 +112,16 @@ The model is trained using:
 
 ---
 
-# Training Output
+# project output screenshots
 
-![Training Output](screenshots/training_output.png)
+[Training Output ; Loss Graph ; IoU Evaluation ; Model Architecture]Can you check it from the Screenshots floder
 
----
-
-# Loss Graph
-
-![Loss Graph](screenshots/loss_graph.png)
-
----
-
-# IoU Evaluation
-
-![IoU Score](screenshots/iou_score.png)
-
----
-
-# Model Architecture Screenshot
-
-![Architecture](screenshots/architecture.png)
 
 ---
 
 # Sample Outputs
 
-## MRI Image
-![MRI](samples/sample_mri.png)
-
-## Ground Truth Mask
-![Mask](samples/sample_mask.png)
-
-## Predicted Tumor Mask
-![Prediction](samples/sample_prediction.png)
+[Images]Can you check it from the Samples floder
 
 ---
 
